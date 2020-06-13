@@ -14,3 +14,7 @@ This mode is achieved by using Minimax Algorithm with and without using Alpha-Be
 Since I have used cleckbox to start AI mode, you could start AI mode in middle of the two player mode.  
 (Thus you could win against AI, but by cheating!!)  
 Note: The 1st move after clicking AI mode is yours.
+
+## Conclusions
+1. Tkinter is easy-to-use Python library for creating GUI.
+2. As expected, Alpha-Beta Pruning method is faster as it does not compute each and every case.
