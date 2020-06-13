@@ -6,7 +6,7 @@ You could directly download the executable file to run the game (for Windows onl
 
 The game basically has 2 modes:
 ## 1. Two Player Mode
-As the name suggest, you can play with your partner
+As the name suggest, you can play with your partner.
 ## 2. AI Mode
 This is an unbeatable AI mode, where the second player is itself computer. Dare to win!
 This mode is achieved by using Minimax Algorithm with and without using Alpha-Beta Pruning Method.
