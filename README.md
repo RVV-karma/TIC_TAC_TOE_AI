@@ -2,7 +2,8 @@
 An unbeatable AI Tic Tac Toe game!!!  
 This is GUI game using Tkinter in Python.  
 You could directly download the executable file to run the game (for Windows only).
-
+  
+  
 The game basically has 2 modes:
 ## 1. Two Player Mode
 As the name suggest, you can play with your partner.
